@@ -1,5 +1,6 @@
 
 # Python爬取豆瓣电影top250
+- [教程地址](http://www.jianshu.com/p/826f8566a7c7)
 - 基于python3
 - 所需类库Requests，BeautifulSoup
 - 代码总共30多行
